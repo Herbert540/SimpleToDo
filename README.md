@@ -34,7 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+
+It was quite confusing since I was using an old version of android studio and then later switched to a newer version 
 
 ## License
 

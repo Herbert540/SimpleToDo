@@ -32,7 +32,7 @@ It was quite confusing since I was using an old version of android studio and th
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Herbert Botwe]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
